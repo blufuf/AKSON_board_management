@@ -1718,3 +1718,4 @@ class Ui_Board1_window(object):
         # Отправка команды в консоль
         self.terminal_widget.send_data(command)
 
+
